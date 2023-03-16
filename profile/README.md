@@ -14,4 +14,23 @@ At Rooch we are working on bringing the best of Move to all Web3 developers. Dev
 * Twitter: [https://twitter.com/RoochNetwork](https://twitter.com/RoochNetwork)
 * Rooch Dev Group Email: [devs@rooch.network](devs@rooch.network)
 
+
+## Repositories
+
+* [moveos](https://github.com/rooch-network/moveos) MoveOS is a standalone Move runtime environment based on MoveVM.
+* [omo](https://github.com/rooch-network/omo) General purpose bytecode emulator with per-step proof
+* [smt](https://github.com/rooch-network/smt) A Rust library that implements a Sparse Merkle tree for a key-value store, provide state proof for the storage layer.
+
+## How to contribute
+
+First off, thanks for taking the time to contribute! Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are greatly appreciated.
+
+* [Find an issue to resolve](https://github.com/search?l=&o=desc&q=org%3Arooch-network+label%3A%22help+wanted%22+state%3Aopen&s=updated&type=Issues)
+
+## Links
+
+* [awesome-move](https://github.com/MystenLabs/awesome-move) A curated list of code and content from the Move programming language community
+* [movefuns](https://github.com/movefuns/movefuns) The Move commons library for support multiple Move chains.
+
+
 Thanks for visiting our profile, and happy coding! 😊
