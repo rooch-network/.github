@@ -20,6 +20,7 @@ At Rooch we are working on bringing the best of Move to all Web3 developers. Dev
 * [moveos](https://github.com/rooch-network/rooch/tree/main/moveos) MoveOS is a standalone Move runtime environment based on MoveVM
 * [flexEmu](https://github.com/rooch-network/flexEmu) General purpose bytecode emulator with per-step proof
 * [smt](https://github.com/rooch-network/rooch/tree/main/moveos/smt) A Rust library that implements a Sparse Merkle tree for a key-value store, provide state proof for the storage layer.
+* [rooch-move-by-example](https://github.com/rooch-network/rooch-move-by-example) A basic and practical book to understand Rooch Move.
 
 ## How to contribute
 
