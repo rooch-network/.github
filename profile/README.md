@@ -1,8 +1,8 @@
 ## 👋 Hi there! Welcome to RoochNetwork's developer community. We're so glad you stopped by!
 
-Rooch is the first modular Layer2 solution with the Move language, using Ethereum as its security layer. Our target is to provide a Move-based execution module to all Web3 application scenarios as well as be a bridge between all Web3 developers and versatile crypto ecosystems.
+Rooch - The Application Layer for Bitcoin Ecosystem
 
-At Rooch we are working on bringing the best of Move to all Web3 developers. Devs can either directly build on our Rooch Layer2 deployment on Ethereum or use Rooch as SDK to customize their own stacks for different application scenarios.
+Rooch Network is a native application layer for the Bitcoin ecosystem, based on the Stackable L2 solution, serving as the go-to Bitcoin assets launchpad and Bitcoin application infra for users and devs.
 
 🚀 We're a team of passionate developers who love to build awesome things with code. Our focus is on creating high-quality, scalable Web3 infrastructure that solves real-world problems by the blockchain technology.
 
